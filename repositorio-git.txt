@@ -1,0 +1,3 @@
+# iniciar uma repositorio para github
+
+1: No git usar comando git init
